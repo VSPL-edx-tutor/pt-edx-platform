@@ -27,7 +27,7 @@
     "css-loader": "0.28.8",
     "datatables": "1.10.18",
     "datatables.net-fixedcolumns": "3.2.6",
-    "edx-proctoring-proctortrack": "git+https://git@github.com/utkarsh-verificient/vt_cdn.git#813baf173e80d34449a636e34af2c04efa593511",
+    "edx-proctoring-proctortrack": "git+https://git@github.com/utkarsh-verificient/vt_cdn.git#75598e7ef4b45bf213138275d0395e212d0f4a3a",
     "edx-ui-toolkit": "1.5.2",
     "exports-loader": "0.6.4",
     "extract-text-webpack-plugin": "2.1.2",
